@@ -5,9 +5,9 @@
         <name>Layout</name>
 </types>
     <types>
-        <members>ContactController</members>
         <members>AccountController</members>
-        <name>ApexClass</name>
+        <name>ApexClass
+        </name>
     </types>
     <version>44.0</version>
 </Package>
