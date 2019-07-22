@@ -48,7 +48,7 @@
                 <field>Email</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behaviour>Edit</behaviour>
                 <field>Rating</field>    
             </layoutItems>
             <layoutItems>
