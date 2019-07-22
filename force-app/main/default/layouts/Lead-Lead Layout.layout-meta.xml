@@ -45,10 +45,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Email</field>  
+                <field>Email</field>
             </layoutItems>
             <layoutItems>
-                <behaviour>Edit</behaviour>
+                <behavior>Edit</behavior>
                 <field>Rating</field>    
             </layoutItems>
             <layoutItems>
