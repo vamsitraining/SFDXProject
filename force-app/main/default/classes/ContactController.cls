@@ -1,5 +1,4 @@
 public with sharing class ContactController {
-    /* making changes for test */
 public static List<Contact> getContactList() {
         return [SELECT Id, Name, Title, Phone, Email FROM Contact  LIMIT 10];
     }
