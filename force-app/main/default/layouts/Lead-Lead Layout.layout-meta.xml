@@ -49,11 +49,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Rating</field>
+                <field>NumberOfEmployees</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>NumberOfEmployees</field>
+                <field>Website</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
