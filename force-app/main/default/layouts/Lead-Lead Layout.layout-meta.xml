@@ -47,10 +47,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-<<<<<<< HEAD
                 <field>MobilePhone</field>
-=======
->>>>>>> ce5e24867b8df7f901053a0fc1bfa0812fa82fe0
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
