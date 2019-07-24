@@ -45,15 +45,14 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+<<<<<<< HEAD
                 <field>Website</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
+=======
+>>>>>>> 135ae291a9e37a17cfaad23936cf2e348149ab58
                 <field>Status</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Rating</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
