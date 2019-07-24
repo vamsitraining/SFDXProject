@@ -48,15 +48,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-<<<<<<< HEAD
                 <field>Rating</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Website</field>
-=======
-                <field>NumberOfEmployees</field>
->>>>>>> 51dbb3d7357efb51629f7a7a76b3462436f7ec9b
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
