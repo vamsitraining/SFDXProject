@@ -227,7 +227,6 @@
             <sortOrder>7</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
-<<<<<<< HEAD
             <actionName>FeedItem.PollPost</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>8</sortOrder>
@@ -241,8 +240,6 @@
             <actionName>SendEmail</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>10</sortOrder>
-=======
->>>>>>> ce5e24867b8df7f901053a0fc1bfa0812fa82fe0
         </platformActionListItems>
         <platformActionListItems>
             <actionName>Submit</actionName>
