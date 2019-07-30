@@ -1,5 +1,5 @@
 public with sharing class AccountController {
-    /*test for dev-1 */
+    /* making changes in apex class */
     @AuraEnabled(cacheable=true)
     public static List<Account> findAccounts(String searchKey) {
         String key = '%' + searchKey + '%';
